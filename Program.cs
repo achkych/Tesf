@@ -24,4 +24,3 @@ void ShowArray(string[] array)
 SecondArray(array1, array2);
 ShowArray(array2);
 */
-//
